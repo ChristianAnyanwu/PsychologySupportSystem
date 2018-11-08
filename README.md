@@ -1,4 +1,4 @@
-# PsychologySupportSystem
+# PsychologySupportSystem - Hackathon Submission
 Our Software is intended to aid psychiatrists in monitoring their patients. There is a global shortage of Psychiatrists in the world right now
 and an ever-growing number of people who need access to mental health care. Our software allows psychiatrists to monitor many patients
 through quick surveys sent via text.
